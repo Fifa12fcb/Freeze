@@ -1,0 +1,8 @@
+name: Freeze
+author: Fifa12fcb
+main: me.fifa12fcb.freeze.main
+version: 1.0.0
+commands:
+  freeze:
+    description: freeze & unfreeze players
+    aliases: [ice]
